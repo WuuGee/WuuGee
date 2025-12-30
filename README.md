@@ -1,4 +1,4 @@
-## 💫 Hi, I’m **Low Qian Tong** — Welcome to My Code Playground!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I’m **Low Qian Tong** — Welcome to My Code Playground!
 
 I’m an aspiring **Software Engineer** who loves building tools, automation, and data-driven applications that solve real engineering problems.  
 I’m graduated in **Bachelor of Information Technology (Honours) in Software Systems Development** with a **CGPA of 3.81**, and I enjoy working across the full stack — from backend logic and APIs to automation workflows and dashboards.
