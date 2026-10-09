@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WuuGee/WuuGee/refs/heads/main/intro-animation.gif" alt="Hi, I'm Tong 👋 Software Application Engineer @ Intel | Automation Enthusiast">
+</p>
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I’m **Low Qian Tong** — Welcome to My Code Playground!
 
 I’m an aspiring **Software Engineer** who loves building tools, automation, and data-driven applications that solve real engineering problems.  
