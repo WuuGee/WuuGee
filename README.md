@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/WuuGee/WuuGee/refs/heads/main/intro-animation (1).gif" alt="Hi, I'm Tong 👋 Software Application Engineer @ Intel | Automation Enthusiast">
 </p>
-<!--
+
 Interested to get a same intro animation as mine? Visit: https://wuugee.github.io/IntroAnimationMaker/
--->
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=WuuGee.WuuGee&logo=Github&color=ff4d6d&style=for-the-badge)
 
