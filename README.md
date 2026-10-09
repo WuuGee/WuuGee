@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WuuGee/WuuGee/refs/heads/main/intro-animation.gif" alt="Hi, I'm Tong 👋 Software Application Engineer @ Intel | Automation Enthusiast">
+  <img src="https://raw.githubusercontent.com/WuuGee/WuuGee/refs/heads/main/intro-animation.gif" alt="Hi, I'm Tong 👋 Software Application Engineer @ Intel | Automation Enthusiast" height="250">
 </p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I’m **Low Qian Tong** — Welcome to My Code Playground!
